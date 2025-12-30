@@ -20,9 +20,7 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
 ### Npm Powershell fix
+```
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
-
+```
