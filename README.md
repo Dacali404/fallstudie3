@@ -1,4 +1,17 @@
 # fallstudie3
+# Fallstudie: Kleiderspenden-Webseite
+
+## Projektbeschreibung
+Diese Webanwendung wurde im Rahmen einer Fallstudie entwickelt.
+Ziel ist die Verwaltung und Darstellung von Kleiderspendenprojekten.
+
+## Technologien
+- Vue.js
+- Bootstrap
+- JavaScript
+- HTML / CSS
+
+## Installation
 
 ## Project setup
 ```
